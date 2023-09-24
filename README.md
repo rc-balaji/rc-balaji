@@ -65,7 +65,7 @@
 </div>
 
 ###
-
+<h2 align="left">CONTACT ME</h2>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=RCBALAJI2003@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/rc-balaji-5a848b248/" target="_blank">
