@@ -86,6 +86,5 @@
 
 ###
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/rc-balaji/rc-balaji/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
