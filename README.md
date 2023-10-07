@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rc-balaji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<a href="https://github.com/rc-balaji?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=rc-balaji&column=6&margin-w=15&margin-h=15" alt="basemax"></a>
+
 ###
 <h2 align="left">PROGRAMMING , TOOLS and FRAMEWORKS</h2>
 
