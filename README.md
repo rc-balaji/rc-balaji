@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! MySelf Balaji and I'm a Student from Dr.N.G.P. iTech, Coimbatore</h2>
+<h2 align="left">Hi 👋! I'm Balaji and a Student from Dr.N.G.P. iTech, Coimbatore</h2>
 
 ###
 
