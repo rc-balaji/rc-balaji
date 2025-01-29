@@ -9,6 +9,7 @@
 
 </div>
 
+<canvas id="github-user-languages-language-chart" width="512" height="512" style="display: block; box-sizing: border-box; height: 256px; width: 256px;"></canvas>
 
 ###
 <h2 align="left">PROGRAMMING , TOOLS and FRAMEWORKS</h2>
