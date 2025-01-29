@@ -3,10 +3,11 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=rc-balaji&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rc-balaji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/rc-balaji?tab=repositories"><img src="https://github-profile-trophy.vercel.app/?username=rc-balaji&column=6&margin-w=15&margin-h=15" alt="basemax"></a>
 
-<canvas id="github-user-languages-language-chart" width="512" height="512" style="display: block; box-sizing: border-box; height: 256px; width: 256px;"></canvas>
 </div>
-
 
 
 ###
